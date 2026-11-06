@@ -1,0 +1,6 @@
+{
+  "public": true,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/458c9mqtc/$1" }
+  ]
+}
