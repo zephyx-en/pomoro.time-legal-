@@ -1,6 +1,7 @@
 {
-  "public": true,
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/458c9mqtc/$1" }
+  "cleanUrls": true,
+  "routes": [
+    { "src": "/(.*)", "dest": "/458c9mqtc/$1" }
   ]
 }
+
